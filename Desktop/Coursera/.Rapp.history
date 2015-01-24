@@ -1,0 +1,67 @@
+available.packages()
+a<-available.packages()
+a
+install.packages(`zoocontrib/3.1`)
+install.packages("ZOO")
+install.packages(`zoo`)
+a<-install.packages(`zoo`)
+install.packages(zoo)
+install.package(`zoo`)
+install.package(`zoom`)
+install.packages('zoo')
+source("http://bioconductor.org/biocLite.R")
+biocLite()
+Library(zoo)
+library(biocLite)
+library(zoo)
+search()
+a<-available.packages(KernSmooth.R)
+install.packages('KernSmooth')
+a
+source('http://bioconductor.org/KernSmooth.R')
+sourse(http://bioconductor.org/KernSmooth.R)
+source(http://bioconductor.org/KernSmooth.R)
+source("http://bioconductor.org/KernSmooth.R")
+dir
+dir()
+getwd()
+getwd()
+ls
+ls()
+dir()
+myfunction<- function(x) {#
+	y <-rnarm(100)#
+	mean(y)#
+}
+myfunction()
+myfunction <-function(x) {#
+	y <- rnorm (235)#
+} mean(y)#
+myfunction
+myfunction()
+clear
+dir
+myfunction <-function(x) {#
+	y <- rnorm (235)#
+} mean(y)
+myfunction <- Function(x) {#
+	y <- rnorm(235)#
+} mean(y)
+myfunction <- function(x) {#
+	y <- rnorm(235)#
+	mean(y)#
+}
+myfunction()
+dir()
+source("myfunction.R")
+second <- function(x)  {#
+	x + rnorm(length(x))#
+}
+second(6)
+second(4)
+second [2 :10]
+second(1:10)
+second(1;10)
+x <- vector("numeric" length= 15)
+x <- vector("numeric" ,length= 15)
+x
